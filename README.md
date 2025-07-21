@@ -15,6 +15,10 @@ The dataset contains two CSV files:
 - `Fake.csv` – articles labeled as fake
 - `True.csv` – articles labeled as real
 
+Due to file size constraints, these CSV files are **not included in this repository**.  
+They can be downloaded directly from Kaggle at the following link:  
+[Fake and Real News Dataset on Kaggle](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
+
 Each row includes:  
 `title`, `text`, `subject`, `date`
 
